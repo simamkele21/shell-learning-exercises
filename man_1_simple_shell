@@ -1,0 +1,36 @@
+.TH man 1 "5 Nov 2022" "0.32" "our own simple_shell man page"
+.SH NAME
+.B our own simple_shell
+- We try to build our own simple shell.
+.SH SYNOPSIS
+.SH Shell Description and Definition
+.SH
+.SH
+.SH
+.SH
+.SH DESCRIPTION
+we use the following files to build our own simple shell:
+- FILE 1
+- FILE 2
+- ETC
+.SH RETURN VALUE
+Our Shell must return the execution in standard output of the command typed by the user
+If the command does not exist it should say "Does not exist"
+.SH
+.SH EXAMPLES TEST
+we compare with printf function original our own _printf function with next examples:
+.SH
+.SH Examples
+.SH
+.SH
+.SH
+.SH
+.SH Results
+.SH
+.SH
+.SH
+.SH
+.SH ISSUES
+We have a issue in check #
+.SH AUTHORS
+Simamkele January, Shane Kolkoto and Arden Jacobs
